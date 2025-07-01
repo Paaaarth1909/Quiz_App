@@ -1,16 +1,72 @@
-# quiz_app
+# ❓ Quiz_App
 
-A new Flutter project.
+A simple and interactive Flutter application that lets users test their knowledge with a series of quiz questions. This project demonstrates the use of Flutter widgets, stateful logic, user interaction, and dynamic UI updates in a fun and educational way.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📚 Multiple-choice quiz questions
+- 🧠 Real-time answer selection
+- ✅ Score tracking
+- 🔁 Option to restart the quiz
+- 📱 Clean and responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Folder Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+lib/
+├── data/           # Quiz questions and answer data
+├── widgets/        # Custom UI components
+├── main.dart       # App entry point
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- **Flutter** (latest stable version)
+- **Dart**
+- **Material Design**
+- **Stateful Widgets** for logic handling
+
+## 📲 Getting Started
+
+To run this project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Paaaarth1909/Quiz_App.git
+   cd Quiz_App
+   ```
+
+2. **Install packages**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Launch the app**
+   ```bash
+   flutter run
+   ```
+
+Make sure you have Flutter set up correctly.  
+👉 [Flutter Setup Guide](https://flutter.dev/docs/get-started/install)
+
+## 🎯 Learning Highlights
+
+This app teaches key Flutter concepts:
+
+- Stateful vs Stateless widgets  
+- Handling user input  
+- Managing dynamic state  
+- Creating and using custom widgets  
+- Building quiz logic and score calculation  
+
+## 📸 Screenshots
+
+_You can include screenshots here to showcase the question screen, result screen, etc._
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo and open a pull request for improvements or bug fixes.
+
+## 📃 License
+
+This project is available under the [MIT License](LICENSE).
